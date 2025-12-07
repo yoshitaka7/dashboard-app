@@ -1,5 +1,7 @@
 # Widget Dashboard
 
+https://dashboard-app-tau-jade.vercel.app/
+
 A modern, customizable dashboard application built with Next.js that allows users to add, remove, and rearrange various widgets including weather, currency exchange rates, news, and a clock. This project demonstrates best practices for scalable React/Next.js application architecture, component composition, and clean code organization.
 
 ## 📋 Overview
